@@ -1,5 +1,5 @@
 {
-    "name": "pixers/payum-dotpay",
+    "name": "silversite/payum-dotpay",
     "type": "library",
     "description": "dotpay api implementation for payum",
     "keywords": [
